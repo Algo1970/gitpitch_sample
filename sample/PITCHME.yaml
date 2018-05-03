@@ -2,7 +2,7 @@
 theme : white
 
 # layout
-layout : center-right  # 
+layout : center  # top, top-left, center-right
 
 #css
 theme-override: sample/css/PITCHME.css
