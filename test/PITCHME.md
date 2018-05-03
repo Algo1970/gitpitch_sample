@@ -1,5 +1,5 @@
 ---?image=test/img/sio.jpg?opacity=30
-## Git@css[gold]Pitch
+## Git@css[gold](Pitch)
 
 ## Desktop
 
