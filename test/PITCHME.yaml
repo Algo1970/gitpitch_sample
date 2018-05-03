@@ -2,7 +2,7 @@ theme : Night
 
 layout : center # top-left, center-right
 
-logo : test/img/apple_darkblue.png
+logo : test/img/apple.png
 
 #フットノートの設定
 footnote : "© 2018 Hidanaika Clinic"
