@@ -3,7 +3,7 @@
 
 ---
 ### スライド2枚目
-* スライドはここ：[slide](https://gitpitch.com/Algo1970/gitpitch#)  
+* スライドはここ：[slide](https://gitpitch.com/Algo1970/gitpitch_sample?p=sample#)  
 * 参考サイト：[gitpitch](http://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE)
 * 参考サイト：[background](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
 
@@ -55,11 +55,11 @@ As Kanye West said:
 
 ---
 ### 画像表示1
-<img src="/img/dog.JPG" title="dog" width="250">
+<img src="/sample/img/dog.JPG" title="dog" width="250">
 
 +++
 ### 画像表示1.1
-![dog](/img/dog.JPG)
+![dog](sample/img/dog.JPG)
 
 ---
 ### syntax highlighting
@@ -143,11 +143,11 @@ http://www.github.com/
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: auto 90</a>
 
----?image=img/bluski.JPG&size=90% 90%
+---?image=sample/img/bluski.JPG&size=90% 90%
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: 90% 90%</a>
 
----?video=/img/ground.MOV
+---?video=sample/img/ground.MOV
 ### <a style="color: white">movie file</a>
 <figcaption><a href="https://gitpitch.com/Algo1970/gitpitch/sample#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
 
