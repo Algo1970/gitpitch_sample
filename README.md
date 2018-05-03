@@ -1,6 +1,7 @@
 # gitpitch_sample
 
 https://gitpitch.com/Algo1970/gitpitch_sample?p=lecture_meeting201807
+
 [slide](https://gitpitch.com/Algo1970/gitpitch_sample?p=lecture_meeting201807#)  
 
 
