@@ -1,4 +1,4 @@
----?image=test/img/foie_gras2.jpg?opacity=20
+---?image=test/img/foie_gras2.jpg?opacity=20&size=65%
 ## 非アルコール性脂肪性肝疾患@color[gold](NAFLD)
 
 ## @color[orange](の最近の話題)
