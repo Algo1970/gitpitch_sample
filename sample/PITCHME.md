@@ -112,21 +112,21 @@ http://www.github.com/
 * :muscle: |
 * :muscle: |
 
----?image=img/bluesea.JPG
+---?image=sample/img/bluesea.JPG
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: not specified</a>
 <a style="color: white">Image size defaults to 100% 100%</a>
 
-+++?image=img/ishigaki.JPG
++++?image=sample/img/ishigaki.JPG
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: not specified</a>
 <a style="color: white">Image size defaults to 100% 100%</a>
 
----?image=img/ishigakijima.JPG&size=auto
+---?image=sample/img/ishigakijima.JPG&size=auto
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: auto</a>
 
----?image=img/shigetomi.JPG&size=cover
+---?image=sample/img/shigetomi.JPG&size=cover
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: cover</a>
 
@@ -139,7 +139,7 @@ http://www.github.com/
 ### youtube
 ![youtube](https://www.youtube.com/embed/ux7OWM28F1U)
 
----?image=img/soukisoba.JPG&size=auto 90%
+---?image=sample/img/soukisoba.JPG&size=auto 90%
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: auto 90</a>
 
@@ -149,7 +149,7 @@ http://www.github.com/
 
 ---?video=/img/ground.MOV
 ### <a style="color: white">movie file</a>
-<figcaption><a href="https://gitpitch.com/Algo1970/gitpitch#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
+<figcaption><a href="https://gitpitch.com/Algo1970/gitpitch/sample#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
 
 
 
