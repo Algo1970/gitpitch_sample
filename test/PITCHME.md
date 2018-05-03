@@ -1,4 +1,4 @@
----?image=test/img/foie_gras2.jpg?opacity=50
+---?image=test/img/foie_gras2.jpg?opacity=70
 ## Git@css[gold](Pitch)
 
 ## @color[orange](Desktop)
