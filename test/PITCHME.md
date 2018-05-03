@@ -1,7 +1,7 @@
 ---?image=test/img/foie_gras2.jpg?opacity=20
-## Git@color[gold](Pitch)
+## 非アルコール性脂肪性肝疾患@color[gold](NAFLD)
 
-## @color[orange](Desktop)
+## @color[orange](の最近の話題)
 
 ### Think It. Type It. See It @size[2em](Live.)
 
@@ -10,5 +10,7 @@
 ###  Watch your 
 # IDEAS 
 #### come alive
+
+---
 
 
