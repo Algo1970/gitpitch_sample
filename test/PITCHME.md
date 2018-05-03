@@ -3,4 +3,4 @@
 
 ## Desktop
 
-### Think It. Type It. See It Live.
+### Think It. Type It. See It @size[2em](Live.)
