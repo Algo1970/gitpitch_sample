@@ -149,7 +149,7 @@ http://www.github.com/
 
 ---?video=sample/img/ground.MOV
 ### <a style="color: white">movie file</a>
-<figcaption><a href="https://gitpitch.com/Algo1970/gitpitch/sample#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
+<figcaption><a href="https://gitpitch.com/Algo1970/gitpitch_sample?p=sample#" style="color: white">https://gitpitch.com/Algo1970/gitpitch_sample?p=sample#</a></figcaption>
 
 
 
