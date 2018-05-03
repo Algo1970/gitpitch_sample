@@ -11,7 +11,7 @@
 # IDEAS 
 #### come alive
 
----?image=test/img/foie_gras2.jpg?size=35% 100%&position=left&color=#D49611
+---?color=#D49611
 ## 非アルコール性脂肪性肝疾患(@color[gold](NAFLD))
 
 ## @color[orange](の最近の話題)
