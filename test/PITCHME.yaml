@@ -5,7 +5,7 @@ layout : center # top-left, center-right
 logo : test/img/apple_darkblue.png
 
 #フットノートの設定
-footnote : "© 2018 Hidanaika Clinic Inc."
+footnote : "© 2018 Hidanaika Clinic"
 
 #スライドのページ数表示の設定
 slide-number: true
