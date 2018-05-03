@@ -1,5 +1,5 @@
----?image=test/img/dog_circle64.png?opacity=40
-## GitPitch
+---?image=test/img/sio.jpg?opacity=30
+## Git@css[gold]Pitch
 
 ## Desktop
 
