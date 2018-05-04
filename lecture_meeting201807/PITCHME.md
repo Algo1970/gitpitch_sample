@@ -88,7 +88,7 @@
 
 +++
 ## 診療のポイント2
-<img src="lecture_meeting201807/img_NAFLD/NAFLD_HCC_CVD_CKD_img.png" height="400" />
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_HCC_CVD_CKD_img.png" height="600" />
 
 
 
