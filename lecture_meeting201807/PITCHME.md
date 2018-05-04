@@ -29,6 +29,6 @@
 
 ## 日本における肝硬変症の<br>原因別割合
 
-<img src="lecture_meeting201807/img/LC_NBNC.png" height="400" />
+<img src="lecture_meeting201807/img_NAFLD/LC_NBNC.png" height="400" />
 
 (Michitaka K, et al : Etiology of liver cirrhosis in Japan : a nationwide survey. J Gastroenterol 45 : 86―94, 2010.)
