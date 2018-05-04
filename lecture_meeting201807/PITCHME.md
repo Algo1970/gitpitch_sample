@@ -14,5 +14,6 @@
 - NAFLD@size[0.5em]((非アルコール性脂肪性肝疾患))とは
 - NAFLDの診断
 - NAFLDの治療
+- 当院でのNAFLD診療
 
 
