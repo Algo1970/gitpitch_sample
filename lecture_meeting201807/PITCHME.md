@@ -134,7 +134,7 @@ Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船�
 ## @color[gold](70歳代 男性 HCC症例)
 
 <div id ="right_white">
-@color[white](6年前より高血圧症にて加療<br>初診時より腹部USにて脂肪肝。<br>FIB4index : 1.97。<br><br>3年前の腹部USにて、<br>肝S5、直径20mmのHCC。<br>ラジオ波焼灼術施行。)
+@color[white](6年前より高血圧症にて加療。<br>初診時より腹部USにて脂肪肝。<br>（FIB4index : 1.97）<br><br>3年前の腹部USにて、<br>肝S5、直径20mmのHCC。<br>ラジオ波焼灼術施行。)
 </div>
 
 <p id ="p_small_white"> (日内会誌　105：62～66，2016)</p>
