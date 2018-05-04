@@ -1,2 +1,5 @@
 #css
 theme-override: lecture_meeting201807/assets/css/PITCHME.css
+
+#logo
+logo : test/img/dog_circle64.png
