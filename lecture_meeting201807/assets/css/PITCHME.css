@@ -3,3 +3,8 @@
   border: 0;
   box-shadow: none;
 }
+
+#p_small_gray {
+  font-size : 10px ;
+  font-color : gray
+}
