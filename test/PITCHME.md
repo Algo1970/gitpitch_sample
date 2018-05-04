@@ -3,7 +3,7 @@
 
 ## @color[orange](の最近の話題)
 
-### Think It. Type It. See It @size[2em](Live.)
+### 病診連携談話会 @size[2em](2018.07.06)
 
 
 ---?image=test/img/sio.jpg&size=65% 100%&position=left&color=#D49611
