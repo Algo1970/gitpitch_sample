@@ -59,6 +59,7 @@
 
 <p id ="p_small_gray">(日内会誌　105：38～46，2016)</p>
 
++++
 ## NAFLDに心血管イベントに与える影響－メタ解析
 
 <img src="lecture_meeting201807/img_NAFLD/meta_NAFLD_CVD.png" height="400" />
