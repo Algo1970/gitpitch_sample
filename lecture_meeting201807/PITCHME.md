@@ -46,8 +46,21 @@
 
 <img src="lecture_meeting201807/img_NAFLD/NAFLDdot.png" height="400" />  
 
----
++++
+## NAFLDの病理
 
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_Matteoni.png" height="400" />  
+
+Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船様腫大）
+
+<img src="lecture_meeting201807/img_NAFLD/Matteoni_dot.png" height="400" />  
+
+(日本内科学会雑誌105巻1号より引用)
+
+
+
+
+---
 ## @size[1.5em](NAFLD)とは
 
 * 1980年、@size[1.5em](Ludwig)により報告
@@ -116,6 +129,11 @@
 
 ---?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=left&color=#D49611
 ## フォアグラとヒレ肉の<br>@color[gold](コントラスト)
+
+---
+## 診断フローチャート
+
+<img src="lecture_meeting201807/img_NAFLD/NAFLDdiag_flowchart.png" height="400" />  
 
 
 
