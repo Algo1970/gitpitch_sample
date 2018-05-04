@@ -73,6 +73,12 @@
 
 <p id ="p_small_gray"> (日内会誌　105：38～46，2016)</p>
 
++++
+## @size[0.8em](NAFLDの)糖尿病@size[0.8em](発症に与える影響 ― メタ解析)
+
+<img src="lecture_meeting201807/img_NAFLD/meta_NAFLD_DM.png" height="400" />
+
+<p id ="p_small_gray"> (日内会誌　105：62～66，2016)</p>
 
 
 
