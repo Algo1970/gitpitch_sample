@@ -16,6 +16,36 @@
 3. @color[orange](NAFLD)の治療
 4. 当院での@color[orange](NAFLD)診療
 
+
+---
+## 非アルコール性脂肪性肝疾患（NAFLD）の定義
+
+- 非アルコール性（アルコール摂取:男性30g/日以下、女性20g/日以下）
+
+純アルコール量がほぼ20 g/日に相当する健康的飲酒量は，ウイスキーダブル1杯，ビール中瓶1本，日本酒1合，ワイングラス2杯以下である．
+
+- 肝組織または画像検査で脂肪肝の所見
+- NAFLD以外の肝疾患の除外
+
++++
+# NAFLD疫学
+
+- 日本の成人健康診断受診者でのNAFLDの頻度は，男性では30～40％，女性は10～20％である。
+- NAFLDの10～20％がNASHと報告されているので，NASH有病率は成人の2～8％と推定される。
+
++++
+## NAFLD患者、年齢分布
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_distribution.png" height="400" />  
+
++++
+## 当院のNAFLD患者、年齢分布
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_distribution_hidanaika.png" height="400" />  
+
++++
+## 脂肪性肝疾患分類
+
+<img src="lecture_meeting201807/img_NAFLD/NAFLDdot.png" height="400" />  
+
 ---
 
 ## @size[1.5em](NAFLD)とは
@@ -87,34 +117,7 @@
 ---?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=left&color=#D49611
 ## フォアグラとヒレ肉の<br>@color[gold](コントラスト)
 
----
-## 非アルコール性脂肪性肝疾患（NAFLD）の定義
 
-- 非アルコール性（アルコール摂取:男性30g/日以下、女性20g/日以下）
-
-純アルコール量がほぼ20 g/日に相当する健康的飲酒量は，ウイスキーダブル1杯，ビール中瓶1本，日本酒1合，ワイングラス2杯以下である．
-
-- 肝組織または画像検査で脂肪肝の所見
-- NAFLD以外の肝疾患の除外
-
-+++
-# NAFLD疫学
-
-- 日本の成人健康診断受診者でのNAFLDの頻度は，男性では30～40％，女性は10～20％である。
-- NAFLDの10～20％がNASHと報告されているので，NASH有病率は成人の2～8％と推定される。
-
-+++
-## NAFLD患者、年齢分布
-<img src="lecture_meeting201807/img_NAFLD/NAFLD_distribution.png" height="400" />  
-
-+++
-## 当院のNAFLD患者、年齢分布
-<img src="lecture_meeting201807/img_NAFLD/NAFLD_distribution_hidanaika.png" height="400" />  
-
-+++
-## 脂肪性肝疾患分類
-
-<img src="lecture_meeting201807/img_NAFLD/NAFLDdot.png" height="400" />  
 
 
 
