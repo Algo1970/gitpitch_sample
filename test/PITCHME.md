@@ -19,7 +19,7 @@
 ### 2018.07.06 @size[0.5em](地域連携談話会)
 
 
----?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=right&color=#D49611
+---?image=test/img/foie_gras2.jpg?opacity=20&size=35% 100%&position=right&color=#D49611
 ## 非アルコール性脂肪性肝疾患@color[gold](NAFLD)
 
 ## @color[orange](の最近の話題)
