@@ -32,3 +32,14 @@
 <img src="lecture_meeting201807/img_NAFLD/LC_NBNC.png" height="400" />
 
 <p id ="p_small_gray">(Michitaka K, et al : Etiology of liver cirrhosis in Japan : a nationwide survey. J Gastroenterol 45 : 86―94, 2010.)</p>
+
++++
+## 日本における肝細胞癌の<br>原因別割合
+
+<img src="lecture_meeting201807/img_NAFLD/HCC_NBNC.png" height="400" />
+
+<p id ="p_small_gray">(Tokushige K, et al : Hepatocellular carcinoma in Japanese patients with nonalcoholic fatty liver disease, alcoholic liver disease, and chronic liver disease of unknown etiology : report of the nationwide survey. J Gastroenterol46 : 1230―1237, 2011.)　</p>
+
++++
+
+
