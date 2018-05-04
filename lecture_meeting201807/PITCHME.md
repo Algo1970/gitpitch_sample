@@ -48,7 +48,7 @@
 <p id ="p_small_gray">(日内会誌　105：62～66，2016)</p>
 
 +++
-## @size[0.5em](NAFLD・NASHの)肝外合併症
+## @size[0.8em](NAFLD・NASHの)肝外合併症
 
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_complication_img.png" height="400" />
 
@@ -60,7 +60,7 @@
 <p id ="p_small_gray">(日内会誌　105：38～46，2016)</p>
 
 +++
-## @size[0.5em](NAFLDの)心血管イベントに与える影響<br>@size[0.5em](－メタ解析－)
+## @size[0.8em](NAFLDの)心血管イベントに与える影響<br>@size[0.8em](－メタ解析－)
 
 <img src="lecture_meeting201807/img_NAFLD/meta_NAFLD_CVD.png" height="400" />
 
