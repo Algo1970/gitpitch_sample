@@ -11,7 +11,7 @@
 
 # AGENDA
 
-1. @color[orange](NAFLD)@size[0.5em](非アルコール性脂肪性肝疾患)) とは
+1. @color[orange](NAFLD)(@size[0.5em](非アルコール性脂肪性肝疾患)) とは
 2. @color[orange](NAFLD)の診断
 3. @color[orange](NAFLD)の治療
 4. 当院での@color[orange](NAFLD)診療
