@@ -130,8 +130,8 @@ Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船�
 ---?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=left&color=#D49611
 ## フォアグラとヒレ肉の<br>@color[gold](コントラスト)
 
----?color=#D808000
-## 症例
+---?color=#808000
+## @color[gold](症例
 
 ---?image=lecture_meeting201807/img_NAFLD/HCC_US1.png?opacity=20%&size=65% 100%&position=left&color=#808000
 ## @color[gold](70歳代 男性 HCC症例)
