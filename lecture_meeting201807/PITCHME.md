@@ -21,10 +21,14 @@
 ## @size[1.5em](NAFLD)とは
 
 * 1980年@size[1.5em](Ludwig)により報告
- - アルコール性肝障害以外の脂肪肝でも脂肪性肝炎に進行することがある
+ - @color[gray](アルコール性肝障害以外の脂肪肝でも脂肪性肝炎に進行することがある)
 * NAFLDは成人の@size[1.5em](20-30%)が罹患
 * @size[1.5em](肝硬変)や、@size[1.5em](肝癌)への進展例も多い
 
 +++
 
-##
+## 日本における肝硬変症の原因別割合
+
+<img src="lecture_meeting201807/img/LC_NBNC.png" height="400" />
+
+(Michitaka K, et al : Etiology of liver cirrhosis in Japan : a nationwide survey. J Gastroenterol 45 : 86―94, 2010.)
