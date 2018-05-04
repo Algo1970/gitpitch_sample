@@ -6,9 +6,10 @@
 
 #p_small_gray {
   font-size : 20px ;
-  font-color : gray
+  font-color : gray ;
 }
 
 #p_white {
-  font-color : white
+  font-color : white ;
+  position : right ;
 }
