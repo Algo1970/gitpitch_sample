@@ -47,3 +47,29 @@
 
 <p id ="p_small_gray">(日内会誌　105：62～66，2016)</p>
 
++++
+## NAFLD・NASHの肝外合併症
+
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_complication_img.png" height="400" />
+
++++
+## NAFLDにおける心血管イベントの報告
+
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_CVDevent.png" height="400" />
+
+<p id ="p_small_gray">(日内会誌　105：38～46，2016)</p>
+
+## NAFLDに心血管イベントに与える影響－メタ解析
+
+<img src="lecture_meeting201807/img_NAFLD/meta_NAFLD_CVD.png" height="400" />
+
+<p id ="p_small_gray"> (日内会誌　105：62～66，2016)</p>
+
+
+
+
+
+
+
+
+
