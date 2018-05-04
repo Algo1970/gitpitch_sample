@@ -41,5 +41,9 @@
 <p id ="p_small_gray">(Tokushige K, et al : Hepatocellular carcinoma in Japanese patients with nonalcoholic fatty liver disease, alcoholic liver disease, and chronic liver disease of unknown etiology : report of the nationwide survey. J Gastroenterol46 : 1230―1237, 2011.)　</p>
 
 +++
+## 肝発癌率（HCV vs NAFLD）
 
+<img src="lecture_meeting201807/img_NAFLD/HCV_NAFLD_HCC.png" height="400" />
+
+<p id ="p_small_gray">(日内会誌　105：62～66，2016)</p>
 
