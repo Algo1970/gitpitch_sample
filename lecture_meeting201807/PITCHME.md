@@ -130,6 +130,15 @@ Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船�
 ---?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=left&color=#D49611
 ## フォアグラとヒレ肉の<br>@color[gold](コントラスト)
 
+---?image=lecture_meeting201807/img_NAFLD/HCC_US1.png?opacity=20%&size=65% 100%&position=left&color=#D49611
+## HCC症例１(70歳台、男性)
+
+6年前より高血圧症にて加療。初診時より腹部USにて脂肪肝。FIB4index : 1.97。
+
+3年前の腹部USにて、肝S5、直径20mmのHCC。ラジオ波焼灼術施行。
+
+
+
 ---
 ## 診断フローチャート
 
