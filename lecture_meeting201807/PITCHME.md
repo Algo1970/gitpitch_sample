@@ -135,8 +135,30 @@ Type 1～3はHE染色，Type 4はアザンマロリー染色（矢印は風船�
 
 <img src="lecture_meeting201807/img_NAFLD/NAFLDdiag_flowchart.png" height="400" />  
 
++++
+## 日本人（576名）を対象とした肝線維化鑑別のためのスコアリングシステム
 
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_fibrosis_scoring.png" height="400" />  
 
+(日本内科学会雑誌105巻1号より引用)
+(Sumida Y, et al : Japan Study Group of Nonalcoholic Fatty Liver Disease（JSG-NAFLD）: Validation of the FIB4
+index in a Japanese nonalcoholic fatty liver disease population. BMC Gastroenterol 12 : 2, 2012.)
+
++++
+## NAFLDにおける肝線維化と血小板の関連
+
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_fibrosis_plt.png" height="400" />  
+
+(Yoneda M, et al : Platelet count for predicting fibrosis in nonalcoholic fatty Liver disease. J Gastroenterol 46 :
+1300―1306, 2011.)
+
++++
+## NAFLDにおける肝線維化とM2BPGiの関連
+
+<img src="lecture_meeting201807/img_NAFLD/M2BPGi_NAFLD.png" height="400" />  
+
+(Abe M, et al : Association between Wisteria floribunda agglutinin-positive Mac-2 binding protein and the fibrosis
+stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015.)
 
 
 
