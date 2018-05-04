@@ -86,6 +86,7 @@
 - ウイルス性肝疾患が減少していくなかで、注意が必要な@size[1.5em](肝癌の発生母地)
 - @size[1.5em](動脈硬化性疾患予防)。糖尿病、高血圧症、脂質異常症等、生活習慣病の一病態として
 
++++
 ## 診療のポイント2
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_HCC_CVD_CKD_img.png" height="400" />
 
