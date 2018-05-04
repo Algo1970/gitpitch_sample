@@ -11,10 +11,10 @@
 
 # AGENDA
 
-- @color[gold](NAFLD) @size[0.5em]((非アルコール性脂肪性肝疾患))とは
-- @color[gold](NAFLD) の診断
-- @color[gold](NAFLD)の治療
-- 当院での@color[gold](NAFLD)診療
+- @color[orange](NAFLD) @size[0.5em]((非アルコール性脂肪性肝疾患))とは
+- @color[orange](NAFLD) の診断
+- @color[orange](NAFLD)の治療
+- 当院での@color[orange](NAFLD)診療
 
 ---
 
