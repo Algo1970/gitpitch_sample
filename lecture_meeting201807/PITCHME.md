@@ -27,7 +27,7 @@
 
 +++
 
-## 日本における肝硬変症の原因別割合
+## 日本における肝硬変症の<br>原因別割合
 
 <img src="lecture_meeting201807/img/LC_NBNC.png" height="400" />
 
