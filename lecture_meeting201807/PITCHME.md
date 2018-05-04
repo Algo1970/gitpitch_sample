@@ -85,7 +85,7 @@
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_HCC_CVD_CKD_img.png" height="600" />
 
 ---?image=test/img/foie_gras2.jpg?opacity=20&size=65% 100%&position=left&color=#D49611
-## フォアグラとヒレ肉の@color[gold](コントラスト)
+## フォアグラとヒレ肉の<br>@color[gold](コントラスト)
 
 ---
 
