@@ -31,4 +31,4 @@
 
 <img src="lecture_meeting201807/img_NAFLD/LC_NBNC.png" height="400" />
 
-<p font-size = 20px>((Michitaka K, et al : Etiology of liver cirrhosis in Japan : a nationwide survey. J Gastroenterol 45 : 86―94, 2010.))</p>
+<p font-size = 10px>(Michitaka K, et al : Etiology of liver cirrhosis in Japan : a nationwide survey. J Gastroenterol 45 : 86―94, 2010.)</p>
