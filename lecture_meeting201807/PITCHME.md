@@ -66,7 +66,12 @@
 
 <p id ="p_small_gray"> (日内会誌　105：62～66，2016)</p>
 
++++
+## @size[0.8em](NAFLDにおける)慢性腎臓病（CKD）@size[0.8em](の報告)
 
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_CKDevent.png" height="400" />
+
+<p id ="p_small_gray"> (日内会誌　105：38～46，2016)</p>
 
 
 
