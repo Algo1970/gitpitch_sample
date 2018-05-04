@@ -47,7 +47,7 @@
 
 <p id ="p_small_gray">(日内会誌　105：62～66，2016)</p>
 
-+++
+---
 ## @size[0.8em](NAFLD・NASHの)肝外合併症
 
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_complication_img.png" height="400" />
