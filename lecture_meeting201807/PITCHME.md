@@ -53,7 +53,7 @@
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_complication_img.png" height="400" />
 
 +++
-## NAFLDにおける心血管イベントの報告
+## @size[0.5em](NAFLDにおける)心血管イベント@size[0.5em](の報告)
 
 <img src="lecture_meeting201807/img_NAFLD/NAFLD_CVDevent.png" height="400" />
 
