@@ -20,7 +20,7 @@
 +++
 ### 脂肪肝とは
 
-<img src="lecture_meeting201807/img_NAFLD/NAFLD_patho.jpg" title="NAFLD" width="350">  
+<img src="lecture_meeting201807/img_NAFLD/NAFLD_patho.jpg" title="NAFLD" width="400">  
 <font size="5" color="gray">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
 
 Note:
