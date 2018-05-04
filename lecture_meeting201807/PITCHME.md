@@ -3,4 +3,4 @@
 
 ### に関する最近の話題<br><br><br>
  
-#### @color[gray](2018.07.06)  @size[0.5em]@color[gray](病診連携懇親会)
+@color[gray](2018.07.06)  @size[0.5em]@color[gray](病診連携懇親会)
