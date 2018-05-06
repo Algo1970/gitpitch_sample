@@ -258,6 +258,9 @@ stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015
 サーバー、ネットワーク図の画像
 
 
+---
+### 肝脂肪化の評価
+
 +++
 ### 肝脂肪定量化shinyアプリ
 
@@ -277,5 +280,35 @@ stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015
 
 <img src="lecture_meeting201807/img_NAFLD/LK_colormodel3.png" width="500"> 
 　
+
+--- 
+### 肝線維化の評価
+
++++
+### 肝線維化スコア
+
+<img src="lecture_meeting201807/img_NAFLD/scoring_panel.png" width="500"> 
+
++++
+### 肝線維化スコア
+
+<img src="lecture_meeting201807/img_NAFLD/scoring_panel2.png" width="500"> 
+
++++
+### FibroScan
+
+<img src="lecture_meeting201807/img_NAFLD/fibroscan.jpg" width="500"> 
+
+
++++ 
+### NAFLDの診断
+
+<img src="lecture_meeting201807/img_NAFLD/network.png" width="500"> 
+
+
+
+
+
+
 
 
