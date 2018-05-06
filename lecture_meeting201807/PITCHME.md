@@ -276,6 +276,6 @@ stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015
 ### 輝度比カラーモデル
 
 <img src="lecture_meeting201807/img_NAFLD/LK_colormodel3.png" width="500"> 
-
+　
 
 
