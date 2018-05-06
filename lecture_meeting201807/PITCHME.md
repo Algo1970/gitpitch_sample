@@ -252,5 +252,30 @@ index in a Japanese nonalcoholic fatty liver disease population. BMC Gastroenter
 (Abe M, et al : Association between Wisteria floribunda agglutinin-positive Mac-2 binding protein and the fibrosis
 stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015.)
 
+---
+### NAFLDに対する当院での取り組み
+
+サーバー、ネットワーク図の画像
+
+
++++
+### 肝脂肪定量化shinyアプリ
+
+<img src="lecture_meeting201807/img_NAFLD/SteatosisChecker.gif" width="800"> 
+
+
++++
+### 経験的な脂肪化grade
+
+<img src="lecture_meeting201807/img_NAFLD/empirical_USgrade.png" width="600"> 
+
++++
+### 輝度の違いはどこまでわかる？
+
++++
+### 輝度比カラーモデル
+
+<img src="lecture_meeting201807/img_NAFLD/LK_colormodel3.png" width="500"> 
+　
 
 
