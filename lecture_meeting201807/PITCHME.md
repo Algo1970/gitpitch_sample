@@ -303,7 +303,7 @@ stage of non-alcoholic fatty liver disease. J Gastroenterol 50 : 776―784, 2015
 +++?image=lecture_meeting201807/img_NAFLD/network.png?opacity=20
 ### NAFLDの診断
 
-<img src="lecture_meeting201807/img_NAFLD/network.png" width="500"> 
+
 
 
 
